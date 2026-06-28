@@ -61,14 +61,14 @@ In 2015-01-04, the temperature was higher than the previous day (20 -> 30).
 **Language:** SQL  
 **Runtime:** 84 ms  
 **Memory:** 0B  
-**Submitted:** 2026-06-28T04:44:58.981Z  
+**Submitted:** 2026-06-28T04:45:39.381Z  
 
 ```sql
-select b.id
+select a.id
 from Weather as a
 INNER JOIN Weather as b
 WHERE DATEDIFF(a.recordDate, b.recordDate) =1 
-AND b.temperature  > a.temperature 
+AND a.temperature  > b.temperature 
 ```
 
 ---
