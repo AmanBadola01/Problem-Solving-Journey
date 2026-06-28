@@ -47,3 +47,10 @@
 *Last updated: 2026-06-28* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AmanBadola01/Practice-Repo/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+<!---LeetCode Topics End-->
