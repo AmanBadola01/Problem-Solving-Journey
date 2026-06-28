@@ -1,4 +1,4 @@
-select v.customer_id , count(transaction_id) as count_no_trans 
+select v.customer_id , count(customer_id) as count_no_trans 
 from Visits as v
 LEFT JOIN Transactions as t
 on v.visit_id = t.visit_id
