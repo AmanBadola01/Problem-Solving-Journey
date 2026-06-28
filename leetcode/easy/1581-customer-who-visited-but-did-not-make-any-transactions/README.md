@@ -92,9 +92,9 @@ As we can see, users with IDs 30 and 96 visited the mall one time without making
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 117 ms  
-**Memory:** 0B  
-**Submitted:** 2026-06-28T04:36:35.225Z  
+**Runtime:** 1457 ms (beats 40.82%)  
+**Memory:** 0B (beats 100.00%)  
+**Submitted:** 2026-06-28T04:36:42.524Z  
 
 ```sql
 SELECT v.customer_id, COUNT(customer_id) as count_no_trans 
