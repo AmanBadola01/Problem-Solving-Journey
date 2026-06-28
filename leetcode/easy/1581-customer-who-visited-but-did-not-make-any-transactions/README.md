@@ -92,17 +92,17 @@ As we can see, users with IDs 30 and 96 visited the mall one time without making
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 116 ms  
+**Runtime:** 117 ms  
 **Memory:** 0B  
-**Submitted:** 2026-06-28T04:27:54.159Z  
+**Submitted:** 2026-06-28T04:36:35.225Z  
 
 ```sql
-select v.customer_id , count(customer_id) as count_no_trans 
-from Visits as v
-LEFT JOIN Transactions as t
-on v.visit_id = t.visit_id
-where t.transaction_id IS NULL
-GROUP BY t.transaction_id 
+SELECT v.customer_id, COUNT(customer_id) as count_no_trans 
+FROM Visits v
+LEFT JOIN Transactions t
+ON v.visit_id = t.visit_id
+WHERE t.transaction_id IS NULL
+GROUP BY v.customer_id
 ```
 
 ---
