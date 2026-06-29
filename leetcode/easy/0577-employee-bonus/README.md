@@ -84,9 +84,9 @@ Output:
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 98 ms  
-**Memory:** 0B  
-**Submitted:** 2026-06-29T03:47:12.861Z  
+**Runtime:** 996 ms (beats 62.72%)  
+**Memory:** 0B (beats 100.00%)  
+**Submitted:** 2026-06-29T03:47:21.476Z  
 
 ```sql
 Select e.name, b.bonus
