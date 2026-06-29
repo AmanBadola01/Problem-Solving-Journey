@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-21-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-22-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-3_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-29--6--2026-green?style=for-the-badge)
 
@@ -16,17 +16,17 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **21** |
+| 🟢 Easy | **22** |
 | 🟡 Medium | **0** |
 | 🔴 Hard | **0** |
-| **Total** | **21** |
+| **Total** | **22** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
 | SQL | **19** |
-| Python | **2** |
+| Python | **3** |
 
 ## 📂 Repository Structure
 
@@ -48,30 +48,3 @@
 *Last updated: 2026-06-29* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0268-missing-number) |
-## Hash Table
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0268-missing-number) |
-## Math
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0268-missing-number) |
-## Binary Search
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0268-missing-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0268-missing-number) |
-## Sorting
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0268-missing-number) |
-<!---LeetCode Topics End-->
