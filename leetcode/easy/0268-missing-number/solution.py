@@ -4,4 +4,4 @@ class Solution:
         expeted_sum = n * ((n +1) /2)
         actual_sum = sum(nums)
 
-        return expeted_sum - actual_sum
+        return int(expeted_sum - actual_sum)
