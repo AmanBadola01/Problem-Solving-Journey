@@ -63,7 +63,7 @@ Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, ret
 **Language:** Python  
 **Runtime:** 0 ms  
 **Memory:** 19.3 MB  
-**Submitted:** 2026-06-29T04:09:37.660Z  
+**Submitted:** 2026-06-29T04:11:30.400Z  
 
 ```py
 class Solution:
@@ -72,7 +72,7 @@ class Solution:
         expeted_sum = n * ((n +1) /2)
         actual_sum = sum(nums)
 
-        return expeted_sum - actual_sum
+        return int(expeted_sum - actual_sum)
 ```
 
 ---
