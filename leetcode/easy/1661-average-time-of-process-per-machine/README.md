@@ -81,18 +81,19 @@ Machine 2's average time is ((4.512 - 4.100) + (5.000 - 2.500)) / 2 = 1.456
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 66 ms  
+**Runtime:** 73 ms  
 **Memory:** 0B  
-**Submitted:** 2026-06-29T03:27:41.445Z  
+**Submitted:** 2026-06-29T03:29:31.137Z  
 
 ```sql
 # Write your MySQL query statement below
-select a1.machine_id, a1.timestamp, a2.timestamp
+select a1.machine_id, ROUND(AVG(a2.timestamp - a1.timestamp), 3) as processing_time 
 from Activity as a1
 INNER JOIN Activity as a2
 ON a1.machine_id = a2.machine_id 
 AND a1.process_id = a2.process_id 
 AND a1.timestamp < a2.timestamp
+GROUP BY machine_id
 ```
 
 ---
