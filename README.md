@@ -47,3 +47,10 @@
 *Last updated: 2026-06-29* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/AmanBadola01/Practice-Repo/tree/master/0197-rising-temperature) |
+<!---LeetCode Topics End-->
