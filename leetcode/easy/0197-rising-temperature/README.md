@@ -59,9 +59,9 @@ In 2015-01-04, the temperature was higher than the previous day (20 -> 30).
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 84 ms  
-**Memory:** 0B  
-**Submitted:** 2026-06-28T04:45:39.381Z  
+**Runtime:** 504 ms (beats 53.23%)  
+**Memory:** 0B (beats 100.00%)  
+**Submitted:** 2026-06-29T03:09:36.075Z  
 
 ```sql
 select a.id
