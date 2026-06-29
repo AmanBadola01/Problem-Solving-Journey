@@ -5,4 +5,4 @@ INNER JOIN Activity as a2
 ON a1.machine_id = a2.machine_id 
 AND a1.process_id = a2.process_id 
 AND a1.timestamp < a2.timestamp
-GROUP BY machine_id
+GROUP BY  a1.machine_id
