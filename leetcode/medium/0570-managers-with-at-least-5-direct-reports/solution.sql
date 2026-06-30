@@ -1,4 +1,6 @@
 select e1.name
 from Employee e1
-LEFT JOIN Employee e2
-on e1.id = e2.id 
+Inner Join Employee e2
+on e1.id = e2.managerId
+group by e2.managerId
+Having count(e2.managerId) >= 5;
