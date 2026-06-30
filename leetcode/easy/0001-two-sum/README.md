@@ -54,8 +54,8 @@ Output: [0,1]
 
 **Language:** Python  
 **Runtime:** 0 ms  
-**Memory:** 19.4 MB  
-**Submitted:** 2026-06-30T10:39:08.820Z  
+**Memory:** 19.1 MB  
+**Submitted:** 2026-06-30T10:42:47.602Z  
 
 ```py
 class Solution:
@@ -66,7 +66,7 @@ class Solution:
             if nums[start] + nums[i] == target:
                 result.append(start)
                 result.append(i)
-                start += 1
+            start += 1
         return result
 ```
 
