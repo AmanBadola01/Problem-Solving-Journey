@@ -4,7 +4,7 @@
 -- on s.student_id = e.student_id 
 -- group by s.student_id
 
-select s.student_id, s.student_name, sub.subject_name, count(e.subject_name) as attended_exam
+select s.student_id, s.student_name, sub.subject_name, count(e.subject_name) as attended_exams
 from Students s
 Cross Join Subjects sub
 Left Join Examinations e
