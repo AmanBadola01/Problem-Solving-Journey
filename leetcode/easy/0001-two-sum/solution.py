@@ -6,5 +6,6 @@ class Solution:
             if nums[start] + nums[i] == target:
                 result.append(start)
                 result.append(i)
-
+            else:
+                start += 1
         return result
