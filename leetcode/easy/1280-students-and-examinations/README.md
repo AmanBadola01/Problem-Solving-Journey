@@ -126,9 +126,9 @@ John attended the Math exam 1 time, the Physics exam 1 time, and the Programming
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 995 ms (beats 72.09%)  
-**Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-06-30T05:05:08.270Z  
+**Runtime:** 164 ms  
+**Memory:** 0B  
+**Submitted:** 2026-06-30T05:05:01.728Z  
 
 ```sql
 -- select s.student_id, s.student_name, count(e.subject_name) as attended_exams 
