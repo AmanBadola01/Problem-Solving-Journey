@@ -59,16 +59,17 @@ Output:
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 71 ms  
+**Runtime:** 87 ms  
 **Memory:** 0B  
-**Submitted:** 2026-06-30T05:11:32.930Z  
+**Submitted:** 2026-06-30T05:23:56.119Z  
 
 ```sql
 select e1.name
 from Employee e1
-LEFT JOIN Employee e2
-on e1.id = e2.id 
-
+Inner Join Employee e2
+on e1.id = e2.managerId
+group by e2.managerId
+Having count(e2.managerId) >= 5;
 ```
 
 ---
