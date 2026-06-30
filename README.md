@@ -16,16 +16,16 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **3** |
+| 🟢 Easy | **12** |
 | 🟡 Medium | **1** |
 | 🔴 Hard | **0** |
-| **Total** | **4** |
+| **Total** | **13** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| SQL | **4** |
+| SQL | **13** |
 
 ## 📂 Repository Structure
 
