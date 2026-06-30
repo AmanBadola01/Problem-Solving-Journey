@@ -48,3 +48,10 @@
 *Last updated: 2026-06-30* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/AmanBadola01/Practice-Repo/tree/master/1280-students-and-examinations) |
+<!---LeetCode Topics End-->
