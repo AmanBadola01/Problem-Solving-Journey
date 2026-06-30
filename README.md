@@ -55,4 +55,12 @@
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AmanBadola01/Practice-Repo/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1280-students-and-examinations](https://github.com/AmanBadola01/Practice-Repo/tree/master/1280-students-and-examinations) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AmanBadola01/Practice-Repo/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AmanBadola01/Practice-Repo/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
