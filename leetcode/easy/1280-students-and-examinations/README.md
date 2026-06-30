@@ -126,24 +126,16 @@ John attended the Math exam 1 time, the Physics exam 1 time, and the Programming
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 995 ms (beats 72.09%)  
-**Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-06-30T05:05:08.270Z  
+**Runtime:** 115 ms  
+**Memory:** 0B  
+**Submitted:** 2026-06-30T04:50:52.333Z  
 
 ```sql
--- select s.student_id, s.student_name, count(e.subject_name) as attended_exams 
--- from Students s
--- Left Join Examinations e
--- on s.student_id = e.student_id 
--- group by s.student_id
-
-select s.student_id, s.student_name, sub.subject_name, count(e.subject_name) as attended_exams
+select s.student_id, s.student_name, count(e.subject_name) as attended_exams 
 from Students s
-Cross Join Subjects sub
 Left Join Examinations e
-ON s.student_id = e.student_id AND sub.subject_name = e.subject_name 
-Group By s.student_id , s.student_name, sub.subject_name
-Order By student_id, subject_name
+on s.student_id = e.student_id 
+group by s.student_id
 ```
 
 ---
