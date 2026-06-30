@@ -59,9 +59,9 @@ Output:
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 87 ms  
-**Memory:** 0B  
-**Submitted:** 2026-06-30T05:23:56.119Z  
+**Runtime:** 384 ms (beats 27.95%)  
+**Memory:** 0B (beats 100.00%)  
+**Submitted:** 2026-06-30T05:24:12.455Z  
 
 ```sql
 select e1.name
