@@ -59,12 +59,12 @@ Output:
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 71 ms  
+**Runtime:** 86 ms  
 **Memory:** 0B  
-**Submitted:** 2026-06-30T05:11:32.930Z  
+**Submitted:** 2026-06-30T05:11:51.111Z  
 
 ```sql
-select e1.name
+select *
 from Employee e1
 LEFT JOIN Employee e2
 on e1.id = e2.id 
