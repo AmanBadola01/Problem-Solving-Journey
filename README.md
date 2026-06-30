@@ -48,3 +48,14 @@
 *Last updated: 2026-06-30* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/AmanBadola01/Practice-Repo/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/AmanBadola01/Practice-Repo/tree/master/3536-maximum-product-of-two-digits) |
+<!---LeetCode Topics End-->
