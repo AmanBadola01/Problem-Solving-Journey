@@ -61,5 +61,6 @@
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/AmanBadola01/Practice-Repo/tree/master/0620-not-boring-movies) |
 | [1934-confirmation-rate](https://github.com/AmanBadola01/Practice-Repo/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
