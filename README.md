@@ -58,4 +58,8 @@
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanBadola01/Practice-Repo/tree/master/3536-maximum-product-of-two-digits) |
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/AmanBadola01/Practice-Repo/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
