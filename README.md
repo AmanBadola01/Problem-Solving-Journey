@@ -49,18 +49,4 @@
 
 </div>
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3536-maximum-product-of-two-digits](https://github.com/AmanBadola01/Practice-Repo/tree/master/3536-maximum-product-of-two-digits) |
-## Sorting
-|  |
-| ------- |
-| [3536-maximum-product-of-two-digits](https://github.com/AmanBadola01/Practice-Repo/tree/master/3536-maximum-product-of-two-digits) |
-## Database
-|  |
-| ------- |
-| [0620-not-boring-movies](https://github.com/AmanBadola01/Practice-Repo/tree/master/0620-not-boring-movies) |
-| [1934-confirmation-rate](https://github.com/AmanBadola01/Practice-Repo/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
