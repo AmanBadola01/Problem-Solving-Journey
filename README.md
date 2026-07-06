@@ -49,4 +49,9 @@
 
 </div>
 <!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/AmanBadola01/Practice-Repo/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
