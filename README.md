@@ -69,6 +69,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AmanBadola01/Practice-Repo/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AmanBadola01/Practice-Repo/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
