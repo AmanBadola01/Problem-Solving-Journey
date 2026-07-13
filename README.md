@@ -76,6 +76,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AmanBadola01/Practice-Repo/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AmanBadola01/Practice-Repo/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/AmanBadola01/Practice-Repo/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/AmanBadola01/Practice-Repo/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -85,4 +86,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AmanBadola01/Practice-Repo/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/AmanBadola01/Practice-Repo/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
