@@ -68,6 +68,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/AmanBadola01/Practice-Repo/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/AmanBadola01/Practice-Repo/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/AmanBadola01/Practice-Repo/tree/master/1251-average-selling-price) |
+| [1321-restaurant-growth](https://github.com/AmanBadola01/Practice-Repo/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/AmanBadola01/Practice-Repo/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/AmanBadola01/Practice-Repo/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/AmanBadola01/Practice-Repo/tree/master/1729-find-followers-count) |
