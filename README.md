@@ -232,3 +232,11 @@ If this repository helps you in your coding interview preparation, please consid
 **Happy Coding! 💻** 
 
 _Last Updated: July 2026_
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/AmanBadola01/Practice-Repo/tree/master/0176-second-highest-salary) |
+<!---LeetCode Topics End-->
