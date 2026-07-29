@@ -31,7 +31,7 @@ After creating the table, insert the following data into the table:
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-29T04:17:20.250Z  
+**Submitted:** 2026-07-29T04:28:03.993Z  
 
 ```sql
 -- write your code here
