@@ -4,22 +4,47 @@
 
 ## Problem
 
-_Description not available._
+### Debug this query
+
+Listen
+
+The Query written in the console is trying to insert data to the table employee.
+ **Debug this query**  to output the entire table.
+
+Your table is named 'employee' and has the following columns
+
+- Id (INT)
+- Name (TEXT),
+- Age (INT),
+- Address (TEXT)
+### Expected output
+
+```
+┌────┬───────────────┬─────┬──────────────┐
+│ Id │     Name      │ Age │   Address    │
+├────┼───────────────┼─────┼──────────────┤
+│ 1  │ John Smith    │ 25  │ 123 Main St  │
+│ 2  │ Sarah Johnson │ 30  │ 456 Broadway │
+└────┴───────────────┴─────┴──────────────┘
+
+```
 
 ## Solution
 
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-29T04:01:48.202Z  
+**Submitted:** 2026-07-29T04:02:54.913Z  
 
 ```sql
-/* Write a query to add the below mentioned employee details to the EMPLOYEE table.
-Employee id: 06, Employee Name: Brandon Kim, Department: Operations
-*/
+/* The Query written in the console is trying to insert data to the table employee.
+Debug this query to output the entire table */
 
-INSERT INTO employee (Employee_id , Employee_Name, Department)
-VALUES (6, 'Brandon Kim', 'Operations');
+INSERT INTO employee (Id,Name,Age,Address)
+VALUES  (1, 'John Smith', 25,  '123 Main St'),
+        (2, 'Sarah Johnson', 30,'456 Broadway');
+
+SELECT * FROM employee; 
 ```
 
 ---
