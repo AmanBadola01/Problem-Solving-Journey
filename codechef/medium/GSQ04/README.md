@@ -37,7 +37,7 @@ Code it out in the IDE.
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-29T03:55:14.639Z  
+**Submitted:** 2026-07-29T03:55:21.288Z  
 
 ```sql
 /* Write a query to create a table 'employee', with columns employee_id, employee_Name and Department. 
