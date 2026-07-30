@@ -34,16 +34,15 @@ Your table is named 'employee' and has the following columns
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-29T04:02:54.913Z  
+**Submitted:** 2026-07-30T06:51:06.644Z  
 
 ```sql
 /* The Query written in the console is trying to insert data to the table employee.
 Debug this query to output the entire table */
 
 INSERT INTO employee (Id,Name,Age,Address)
-VALUES  (1, 'John Smith', 25,  '123 Main St'),
+VALUES (1, 'John Smith', 25,  '123 Main St'),
         (2, 'Sarah Johnson', 30,'456 Broadway');
-
 SELECT * FROM employee; 
 ```
 
