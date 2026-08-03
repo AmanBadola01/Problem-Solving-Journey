@@ -46,7 +46,7 @@ Code it out in the IDE.
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-30T07:03:05.099Z  
+**Submitted:** 2026-08-03T05:52:17.182Z  
 
 ```sql
 /* Write a query which does the following
