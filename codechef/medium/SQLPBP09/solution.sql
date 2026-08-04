@@ -1,4 +1,6 @@
--- your code goes here
-select department, count(employee_id) as total_employees
-from Employees
-group by department
+--your code goes here
+
+select employee_name, company, salary
+from Employees 
+where category == 'Full-Time'
+order by salary desc
