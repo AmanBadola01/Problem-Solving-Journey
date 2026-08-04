@@ -1,3 +1,4 @@
 -- your code goes here
-select avg(salary) as avg_salary
-from Works
+select department_name, location
+from departments
+where location LIKE "S%"
