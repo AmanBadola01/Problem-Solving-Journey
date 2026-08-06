@@ -50,3 +50,14 @@
 *Last updated: 2026-08-06* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AmanBadola01/Practice-Repo/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AmanBadola01/Practice-Repo/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
