@@ -1,7 +1,6 @@
 /*
 Enter your query here.
 */
-SELECT DISTINCT CITY
+SELECT DISTINCT CITY 
 FROM STATION 
-WHERE LEFT(LOWER(CITY), 1) IN ('a', 'e', 'i', 'o', 'u') AND 
-      RIGHT(LOWER(CITY), 1) IN ('a', 'e', 'i', 'o', 'u')
+WHERE LEFT(LOWER(CITY), 1) NOT IN ('a', 'e', 'i', 'o', 'u');
