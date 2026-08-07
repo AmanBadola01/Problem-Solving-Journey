@@ -1,4 +1,4 @@
-# Weather Observation Station 12
+# Higher Than 75 Marks
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
@@ -23,17 +23,17 @@ The *Name* column only contains uppercase (`A`-`Z`) and lowercase (`a`-`z`) lett
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-07T12:41:28.331Z  
+**Submitted:** 2026-08-07T12:47:07.335Z  
 
 ```sql
 /*
 Enter your query here.
 */
 
-SELECT DISTINCT CITY 
-FROM STATION 
-WHERE LEFT(LOWER(CITY), 1) NOT IN ('a', 'e', 'i', 'o', 'u') AND
-      RIGHT(LOWER(CITY), 1) NOT IN ('a', 'e', 'i', 'o', 'u');
+SELECT NAME 
+FROM STUDENTS
+WHERE Marks > 75 
+order by RIGHT(Name, 3), ID ASC;
 
 ```
 
