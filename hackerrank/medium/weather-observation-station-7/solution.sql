@@ -2,6 +2,6 @@
 Enter your query here.
 */
 
-select CITY 
+SELECT distinct CITY
 FROM STATION
-WHERE LEFT(LOWER(CITY), 1) IN ('a', 'e', 'i', 'o', 'u');
+WHERE  LOWER(RIGHT(CITY, 1)) IN ('a', 'e', 'i', 'o', 'u');
