@@ -50,3 +50,10 @@
 *Last updated: 2026-08-08* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/AmanBadola01/Practice-Repo/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
