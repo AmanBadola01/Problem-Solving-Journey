@@ -2,14 +2,12 @@
 Enter your query here.
 */
 
-SELECT CASE 
-    WHEN A+B > C AND  B+C > A AND A+C > B THEN 
-        CASE
-            WHEN A = B AND B = C THEN "Equilateral"
-            WHEN A = B OR B = C OR A = C THEN "Isosceles"
-            WHEN A <> B AND B <> C AND C <> A THEN "Scalene"
-        END
-    ELSE "Not A Triangle"
-END AS TRIANGLE_TYPE
-        
-FROM TRIANGLES ;
+select concat(name, '(',left(Occupation, 1), ')')
+from OCCUPATIONS
+order by name;
+
+select 
+concat("There are a total of ",count(Occupation)," ",lower(Occupation), 's.')
+from OCCUPATIONS
+group by Occupation
+order by count(Occupation), Occupation;
