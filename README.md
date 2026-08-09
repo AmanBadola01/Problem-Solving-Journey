@@ -50,3 +50,10 @@
 *Last updated: 2026-08-09* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AmanBadola01/Practice-Repo/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+<!---LeetCode Topics End-->
