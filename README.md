@@ -56,4 +56,20 @@
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AmanBadola01/Practice-Repo/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AmanBadola01/Practice-Repo/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AmanBadola01/Practice-Repo/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AmanBadola01/Practice-Repo/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AmanBadola01/Practice-Repo/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
