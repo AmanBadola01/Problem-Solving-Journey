@@ -72,4 +72,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmanBadola01/Practice-Repo/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
