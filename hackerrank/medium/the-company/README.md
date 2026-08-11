@@ -1,4 +1,4 @@
-# Binary Tree Nodes
+# New Companies
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
@@ -42,21 +42,24 @@ The following tables contain company data:
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-11T03:40:59.492Z  
+**Submitted:** 2026-08-11T04:14:15.642Z  
 
 ```sql
-/*
-Enter your query here.
-*/
-SELECT 
-    N,
-    CASE 
-        WHEN P IS NULL THEN "Root"
-        WHEN N NOT IN (SELECT DISTINCT P FROM BST WHERE P IS NOT NULL) THEN "Leaf"
-        ELSE "Inner"
-    END AS node_type
-FROM BST
-ORDER BY N ASC
+SELECT
+    c.company_code,
+    c.founder,
+    count(distinct lm.lead_manager_code),
+    count(distinct sm.senior_manager_code),
+    count(distinct m.manager_code),
+    count(distinct e.employee_code)
+from Company as c
+left join Lead_Manager lm on c.company_code = lm.company_code
+left join Senior_Manager sm on c.company_code = sm.company_code
+left join Manager m on c.company_code = m.company_code
+left join Employee e on c.company_code = e.company_code
+
+GROUP BY c.company_code, c.founder
+order by c.company_code
 
 ```
 
