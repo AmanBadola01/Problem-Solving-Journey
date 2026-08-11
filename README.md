@@ -2,9 +2,9 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-102-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-4_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-9--8--2026-green?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-103-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-11--8--2026-green?style=for-the-badge)
 
 > 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
@@ -17,15 +17,15 @@
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **10** |
-| 🟡 Medium | **92** |
+| 🟡 Medium | **93** |
 | 🔴 Hard | **0** |
-| **Total** | **102** |
+| **Total** | **103** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| SQL | **87** |
+| SQL | **88** |
 | db2 | **8** |
 | Python | **6** |
 | C++ | **1** |
@@ -47,46 +47,6 @@
 
 <div align="center">
 
-*Last updated: 2026-08-09* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+*Last updated: 2026-08-11* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AmanBadola01/Practice-Repo/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
-## Hash Table
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/AmanBadola01/Practice-Repo/tree/master/0141-linked-list-cycle) |
-## Linked List
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/AmanBadola01/Practice-Repo/tree/master/0141-linked-list-cycle) |
-## Two Pointers
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/AmanBadola01/Practice-Repo/tree/master/0141-linked-list-cycle) |
-## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/AmanBadola01/Practice-Repo/tree/master/0141-linked-list-cycle) |
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0009-palindrome-number) |
-| [0509-fibonacci-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0509-fibonacci-number) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0509-fibonacci-number) |
-## Recursion
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0509-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/AmanBadola01/Practice-Repo/tree/master/0509-fibonacci-number) |
-<!---LeetCode Topics End-->
