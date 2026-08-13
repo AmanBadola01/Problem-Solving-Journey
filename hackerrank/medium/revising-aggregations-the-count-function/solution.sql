@@ -1,0 +1,3 @@
+select count( DISTRICT) 
+FROM CITY 
+WHERE POPULATION > 100000;
