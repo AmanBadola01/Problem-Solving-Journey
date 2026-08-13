@@ -18,10 +18,10 @@ The **CITY** table is described as follows:
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-13T06:15:28.444Z  
+**Submitted:** 2026-08-13T06:15:48.105Z  
 
 ```sql
-SELECT ROUND(AVG(POPULATION), 0)
+SELECT ROUND(AVG(POPULATION))
 FROM CITY;
 
 ```
