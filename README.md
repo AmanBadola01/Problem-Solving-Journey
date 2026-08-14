@@ -50,3 +50,10 @@
 *Last updated: 2026-08-14* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/AmanBadola01/Practice-Repo/tree/master/0237-delete-node-in-a-linked-list) |
+<!---LeetCode Topics End-->
