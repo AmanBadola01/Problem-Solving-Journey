@@ -1,6 +1,8 @@
 /*
 Enter your query here.
 */
-SELECT ROUND(MIN(LAT_N) ,4)
+SELECT round(
+    (
+        abs(min(LAT_N) - MAX(LAT_N)) + abs(min(LONG_W)- MAX(LONG_W))
+    ), 4)
 FROM STATION
-WHERE LAT_N > 38.7780
