@@ -50,3 +50,10 @@
 *Last updated: 2026-08-16* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AmanBadola01/Practice-Repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+<!---LeetCode Topics End-->
