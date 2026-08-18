@@ -50,3 +50,14 @@
 *Last updated: 2026-08-18* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AmanBadola01/Practice-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AmanBadola01/Practice-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
